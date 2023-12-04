@@ -101,7 +101,13 @@ To get started with the Library Management System, follow these steps:
 4. **Documentation:**
    - Provide detailed documentation for setup, configuration, and usage.
 
----
+## UML
+
+Software engineers use UML, or Unified Modeling Language, a standardized modeling language, to visually depict a system's design. It offers a range of graphical notations and tools that facilitate communication, visualization, specification, construction, and documentation of software system artifacts between developers and stakeholders. 
+![UML Final](https://github.com/Harshethabm9/Library-management-system/assets/148848257/538efe41-47b8-4645-9136-8b487c4c346e)![UML_11](https://github.com/Harshethabm9/Library-management-system/assets/148848257/b67bc629-5eef-46a2-a8ad-9c5d3e10b946)
+![UML_1](https://github.com/Harshethabm9/Library-management-system/assets/148848257/5ad93026-0e2e-45a8-abdd-a74f2204f66f)
+
+
 
 ## License
  
