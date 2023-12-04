@@ -93,19 +93,28 @@ To get started with the Library Management System, follow these steps:
 
 4. **Documentation:**
    - Provide detailed documentation for setup, configuration, and usage.
-5. # Member management: 
-Register and manage your member account. Link members to borrowed books and manage borrowing history. 
+5. **Member management:**
 
-6. # Check-in and check-out: 
+   Register and manage your member account. Link members to borrowed books and manage borrowing history. 
+
+7. **Check-in and check-out:**
+    
 Implement functionality for librarians to check in returned books and check out books to members. Automatically update book status. 5. Reservation system: 
-Allows members to reserve books  currently on loan. Manage your book reservation queue. 
-7. **Managing fines and fees:** 
+Allows members to reserve books  currently on loan. Manage your book reservation queue.
+
+8. **Managing fines and fees:** 
+
 Automatically calculate fines for overdue books. Provides librarians with the opportunity to waive fines or adjust amounts. 
-8. **Search and browse functions:** 
-Allow members to search for books based on various criteria (title, author, genre, etc.).  
-9.Implement a user-friendly interface for browsing the catalog. 
-10. **Reporting and analysis:** 
+
+9. **Search and browse functions:** 
+
+Allow members to search for books based on various criteria (title, author, genre, etc.).
+Implement a user-friendly interface for browsing the catalog. 
+
+10. **Reporting and analysis:**
+     
 Reports on book circulation, popular genres, member activities, etc. Deliver analytics for informed decisions.
+
 ## UML
 
 Software engineers use UML, or Unified Modeling Language, a standardized modeling language, to visually depict a system's design. It offers a range of graphical notations and tools that facilitate communication, visualization, specification, construction, and documentation of software system artifacts between developers and stakeholders. 
