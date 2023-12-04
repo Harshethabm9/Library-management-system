@@ -1,17 +1,10 @@
 # Library-management-system
  It allows users to add books to the library, display available books, borrow a book using its ID, and return a borrowed book bacl to library
  
-Overview
-The Library Management System is a software application designed to efficiently manage the operations and resources of a library. It serves as a comprehensive tool for librarians, enabling them to streamline book management, patron interactions, and administrative tasks.
-
-Features
-Book Management: Add, update, and remove book records including details such as title, author, genre, and unique identifiers.
-User Management: Register and maintain user accounts, handle borrowing, reservations, and returns.
-Cataloging & Search: Organize and categorize books for easy search and retrieval.
-Borrowing & Returns: Facilitate the process of lending and returning books, along with due date tracking.
-Fine & Penalty Management: Calculate and manage fines for late returns.
-Reporting & Analytics: Generate reports on book inventory, user activities, and system usage statistics.
-Security & Access Control: Admin controls, user roles, and data security measures to protect user information.
+## Overview
+A library management system is a software application for efficiently managing library operations and resources. It serves as a comprehensive tool for librarians, allowing them to streamline book management, user interaction, and administrative tasks. 
+Features 
+Book management: Add, update, and delete book entries, including details such as title, author, genre, and unique identifier. User Management: Register and maintain user accounts, manage loans, reservations and returns. Catalog and Search: Organize and categorize your books for easy searching and retrieval. Loan and Return: Easily borrow, return, and track due dates for books. Manage fines and fines: Calculate and manage fines for late returns. Reports and Analytics: Generate reports on book inventory, user activity, and system usage statistics.  Security and access controls: Administrator controls, user roles, and data security measures to protect user information.
 
 Technologies Used
 Programming Language: Python/C++
@@ -100,7 +93,19 @@ To get started with the Library Management System, follow these steps:
 
 4. **Documentation:**
    - Provide detailed documentation for setup, configuration, and usage.
+5. # Member management: 
+Register and manage your member account. Link members to borrowed books and manage borrowing history. 
 
+6. # Check-in and check-out: 
+Implement functionality for librarians to check in returned books and check out books to members. Automatically update book status. 5. Reservation system: 
+Allows members to reserve books  currently on loan. Manage your book reservation queue. 
+7. **Managing fines and fees:** 
+Automatically calculate fines for overdue books. Provides librarians with the opportunity to waive fines or adjust amounts. 
+8. **Search and browse functions:** 
+Allow members to search for books based on various criteria (title, author, genre, etc.).  
+9.Implement a user-friendly interface for browsing the catalog. 
+10. **Reporting and analysis:** 
+Reports on book circulation, popular genres, member activities, etc. Deliver analytics for informed decisions.
 ## UML
 
 Software engineers use UML, or Unified Modeling Language, a standardized modeling language, to visually depict a system's design. It offers a range of graphical notations and tools that facilitate communication, visualization, specification, construction, and documentation of software system artifacts between developers and stakeholders. 
